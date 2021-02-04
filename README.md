@@ -1,7 +1,7 @@
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I am Mayank Tripathi
 
-I am Student, a enthusiast programmer and a artist :)
+I am a Student, a enthusiast programmer and a artist :)
 
 #### 🥅 I’m currently looking for new opportunities .
 
