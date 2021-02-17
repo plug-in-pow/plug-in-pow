@@ -18,13 +18,18 @@ Here are a few things I've picked up along my learning journey.
 * Firebase
 * AWS
 
+## GitHub Stats
+<hr/>
+
+![Mayank GitHub stats](https://github-readme-stats.vercel.app/api?username=plug-in-pow&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
 ## 📫 Get in touch
 <hr/>
 
 - Portfolio - [Mayank](https://mayanktripathi.herokuapp.com/)
 - LinkedIn - [Mayank Tripathi](https://www.linkedin.com/in/mayank-tripathi-2021)
 
- or you drop me an email on my [mail](mailto:tripathi.mayank.17it1026@gmail.com) .
+ or you can contact me through [gmail](mailto:tripathi.mayank.17it1026@gmail.com) .
 
 
 
