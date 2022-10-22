@@ -28,7 +28,7 @@ Here are a few things I've picked up along my learning journey.
 
 - LinkedIn - [Mayank Tripathi](https://www.linkedin.com/in/mayank-tripathi-2021)
 
- or you can contact me through [gmail](mailto:tripathi.mayank.17it1026@gmail.com) .
+ or you can contact me through [gmail](mailto:tripathimayank36@gmail.com) .
 
 
 
