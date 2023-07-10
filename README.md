@@ -1,22 +1,22 @@
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I am Mayank Tripathi
 
-I am a Student, a enthusiast programmer and a artist :)
+I am an Engineer, an enthusiastic programmer, and an artist :)
 
-#### 🥅 I’m currently looking for new opportunities .
+#### 🥅 I’m currently looking for new opportunities.
 
 ## 📚 Technical Stack
 <hr/>
 
 Here are a few things I've picked up along my learning journey.
 
-* Python | Java 
-* React JS | Flutter
-* MS SQL | SQLite 
+* Javascript | Typescript
+* Nodejs | Expressjs
+* Angular
+* SQL
 * Git | Github
 * HTML | CSS
 * Firebase
-* AWS
 
 ## GitHub Stats
 <hr/>
