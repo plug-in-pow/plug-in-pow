@@ -18,11 +18,6 @@ Here are a few things I've picked up along my learning journey.
 * HTML | CSS
 * Firebase
 
-## GitHub Stats
-<hr/>
-
-![Mayank GitHub stats](https://github-readme-stats.vercel.app/api?username=plug-in-pow&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
 ## 📫 Get in touch
 <hr/>
 
