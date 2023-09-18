@@ -22,6 +22,7 @@ Here are a few things I've picked up along my learning journey.
 <hr/>
 
 - LinkedIn - [Mayank Tripathi](https://www.linkedin.com/in/mayank-tripathi-2021)
+- Portfolio - (https://may-tri-portfolio.netlify.app/)
 
  or you can contact me through [gmail](mailto:tripathimayank36@gmail.com) .
 
